@@ -1,4 +1,4 @@
-#Entorno PHP + NGINX
+# Entorno PHP + NGINX
 
 
 Para usarlo debes tener instalado Docker previamente.
